@@ -1,6 +1,6 @@
 # Hangman-cpp
 
-This is a hangman game with full character checking and both a single and multiplayer mode. 
+This is a hangman game with full input checking and both a single and multiplayer mode. 
 
 FOR MULTIPLAYER: Simply run the code and follow the instructions to play.
 
